@@ -31,5 +31,5 @@
 
 #### How were investigators able to trace the chips back to the source?
 
-  Investigators were able to trace the real world trail of shipping manifests and serial numbers to triangulate 
+  Investigators were able to trace the real-world trail of shipping manifests and serial numbers to triangulate 
   facilities that produced the bugged hardware.
