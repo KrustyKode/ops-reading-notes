@@ -1,4 +1,4 @@
-# Mike's Rading Note's 
+# Mike's Reading Note's 
 
 ## OpsReadings
 
@@ -12,11 +12,11 @@
 
 #### Explain the terms “shell”, “terminal”, “cli”, and “command prompt”. Why are these still used today, when we have graphical interfaces?
 
-Shell, terminal and cli or command line interface all refer to the same thing. It allows a user to navigate through a computers directories without having to interact with a GUI.
+Shell, terminal and cli or command line interface all refer to the same thing. It allows a user to navigate through a computer's directories without having to interact with a GUI.
   
 
 
-#### What are the commands to change directories, list the file’s contents and rename/move files?
+#### What are the commands to change directories, list the file’s contents, and rename/move files?
 cd
 ls
 mv
