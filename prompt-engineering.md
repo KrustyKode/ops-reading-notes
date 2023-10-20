@@ -21,3 +21,5 @@
 6. Calcium Reactor or Kalkwasser: In advanced reef systems, a calcium reactor or the use of kalkwasser (calcium hydroxide solution) can be considered as additional methods to maintain or raise alkalinity. These methods require careful monitoring and adjustment.
 
 Remember that stability is crucial in a reef aquarium, so avoid rapid or drastic changes in alkalinity levels. It is always recommended to research and consult with experienced reef aquarium hobbyists or professionals for specific advice tailored to your setup.
+
+GPT gave a decent enough response, it certainly lacked the nuance of a professional aquaculturist or a marine biologist. But it did give accurate information and actionable advice.
