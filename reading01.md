@@ -1,4 +1,4 @@
-# Mike's readings
+# Mikes readings
 
 ## Ops 201 Readings
 
