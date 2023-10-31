@@ -16,11 +16,13 @@
     PowerShell can be used on many popular platforms; including, Linux, Hyper-V and AWS.
 
 #### List at least three reasons why learning PowerShell could be beneficial for your career and environment.
-    There are many reasons why you should learn to use PowerShell. It can help you automate mundane tasks, improve your accuracy, and it is and wiill continue to be relevent for the forseeable future.
+    There are many reasons why you should learn to use PowerShell. 
+    It can help you automate mundane tasks, improve your accuracy, 
+    and it is and wiill continue to be relevent for the forseeable future.
 
 
 #### How can PowerShell’s automation capabilities improve efficiency and reduce manual errors?
-The power of automation can not be understated. You only have to iron out the kinks once, then it works forever, this can save you exponential amount of time, and for the most part your imagination is the limit!
+    The power of automation can not be understated. You only have to iron out the kinks once, then it works forever, this can save you exponential amount of time, and for the most part your imagination is the limit!
 
 
 #### Think about a situation where you might use PowerShell in your everyday life or job. How could PowerShell help you accomplish a specific task or solve a problem?
