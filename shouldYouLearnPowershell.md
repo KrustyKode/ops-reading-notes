@@ -7,7 +7,8 @@
 
 #### What is the difference between Bash and PowerShell?
     Bash and Powershell share many similarities, but are also distinctly different. 
-    One major difference between the two being Bash works with strings, while PowerShell is designed for objects.
+    One major difference between the two being Bash works with strings, 
+    while PowerShell is designed for objects.
 
 
 
@@ -22,8 +23,14 @@
 
 
 #### How can PowerShell’s automation capabilities improve efficiency and reduce manual errors?
-    The power of automation can not be understated. You only have to iron out the kinks once, then it works forever, this can save you exponential amount of time, and for the most part your imagination is the limit!
+    The power of automation can not be understated. 
+    You only have to iron out the kinks once, then it works forever, 
+    this can save you exponential amount of time, 
+    and for the most part your imagination is the limit!
 
 
 #### Think about a situation where you might use PowerShell in your everyday life or job. How could PowerShell help you accomplish a specific task or solve a problem?
-    A PowerShell script could be set up to automatically display some of the common things we are asked to do in class. You could write a script that automatically pulls relevant network information, a script that automatically mounts a drive, etc.
+    A PowerShell script could be set up to automatically display some of the common 
+    things we are asked to do in class. 
+    You could write a script that automatically pulls relevant network information,
+     a script that automatically mounts a drive, etc.
