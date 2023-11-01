@@ -28,5 +28,6 @@
      you can edit different files. Like if you went in 
      and changed an obscure public figures birthday,
      nothings really going to happen. 
-     You could also go in and change Barrack Obama to a be a pro football player, but that is going to probably have some immeditly noticable affects. 
+     You could also go in and change Barrack Obama to a be a pro football player,
+     but that is going to probably have some immeditly noticable affects. 
      Hope this makes sense at all, I've been staring at a screen for 12 hours and my mind is melting.
