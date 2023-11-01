@@ -17,10 +17,16 @@
     "registry hacks is a collective term for edits to the windows registry, which change how an app or program behaves.
 
 #### What are some common tasks you can perform by editing the Windows Registry?
-    some handy edits allow you to do things like displaying a message at sign in, add any application to your desktop and block users from running certain apps.
+    some handy edits allow you to do things like displaying a message at sign in,
+     add any application to your desktop and block users from running certain apps.
 
 
 
 #### Imagine you’re explaining the concept of the Windows Registry to someone who has never used a computer before. How would you make this explanation culturally relevant and relatable to their life experiences or background?
-    The windows registry is kind of like wikipedia. Theres a ton of different articles, you can click on
-    one and read it, and thats all most users do. But like wikipedia, you can edit different files. Like if you went in and changed an obscure public figures birthday, nothings really going to happen. You could also go in and change Barrack Obama to a be a pro football player, but that is going to probab;y have some immeditly noticable affects. Hope this makes sense at all, I've been staring at a screen for 12 hours and my mind is melting.
+    The windows registry is kind of like wikipedia. Theres a ton of different articles,
+     you can click on one and read it, and thats all most users do. But like wikipedia,
+     you can edit different files. Like if you went in 
+     and changed an obscure public figures birthday,
+     nothings really going to happen. 
+     You could also go in and change Barrack Obama to a be a pro football player, but that is going to probably have some immeditly noticable affects. 
+     Hope this makes sense at all, I've been staring at a screen for 12 hours and my mind is melting.
