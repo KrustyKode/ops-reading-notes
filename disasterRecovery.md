@@ -10,7 +10,7 @@
     restored from that backup.
 
 #### Describe the process of data backup in detail.
-   Backing up data is the process of storing a copy of a business’s data either in a cloud or physical environment, such as an external hard drive.
+    Backing up data is the process of storing a copy of a business’s data either in a cloud or physical environment, such as an external hard drive.
 #### What does disaster recovery refer to, and why is it crucial to have it in addition to data backups?
     Disaster recovery refers to the process and procedures for maintaining buisness continuity in the
     event of data corruption or loss. 
