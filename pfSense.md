@@ -37,6 +37,7 @@
 
 #### Reflect on the importance of cultural awareness in the field of network security and administration. 
 #### How might cultural differences influence decision-making and problem-solving when dealing with virtual routers and firewalls, like pfSense, in a global context?
-    When dealing with a globally connected company, it's paramount to account for different cultures and customs. 
+    When dealing with a globally connected company, 
+    it's paramount to account for different cultures and customs. 
     Different cultural ideals can lead cause ambiguity, if a clear best practice is not enforced.
     
