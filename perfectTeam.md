@@ -14,7 +14,8 @@
         to share opinions even if they may be controversial. Vis versa, members must also be
         willing to hear out others.
     3. Shared responsibility
-        team members should feel a shard responsibility for the success or failure of the group as a whole.
+        team members should feel a shard responsibility for the success or 
+        failure of the group as a whole.
 
 
 #### Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.
