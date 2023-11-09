@@ -1,2 +1,28 @@
 # ops-reading-notes
-Da Notes
+## 102 Reading notes
+- [Case Study: China’s Spy Chip](reading1.md)
+- [Build a Computer](reading2.md)
+- [What is the BIOS](reading3.md)
+- [Installing Ubuntu Linux](reading4.md)
+- [Installing Virtualbox with Linux Terminal](reading5.md)
+- [SOHO Networking](reading6.md)
+- [Network Connectivity](reading7.md)
+- [Virtualization of Windows OS](reading8.md)
+- [Command Line Interface](reading9.md)
+
+## 201 reading notes
+- [Metocognative Map](prompt-engineering.md)
+- [System Restore](reading01.md)
+- [What Is Bash](whatIsBash.md)
+- [Help Desk](introToHelpDeskSupportRoles.md)
+- [Troubleshooting Techniques](comptiaTroubleshooting.md)
+- [Windows Command Line Tools](microsoftCL.md)
+- [Windows Defender](windowsdefender.md)
+- [OS Upgrade and Remote Access](shouldYouLearnPowershell.md)
+- [System Log analysis,Registry,ControlPanel](windowsRegistry.md)
+- [Workstation Deployment SOP](writeAnSop.md)
+- [Imaging,Backup, and Recovery](disasterRecovery.md)
+- [Data Restoration, Startup Repair, and Secure Disposal](ssdRecovery.md)
+- [Virtualizing a Router with pfSense](pfSense.md)
+- [Importance of Virtualization in the Amazon EC2 Cloud](cloudVirtualization.md)
+- [Malware Remediation Tools and Techniques](malwareRemediation.md)
