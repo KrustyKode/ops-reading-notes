@@ -18,7 +18,8 @@
     The three possible responses are:
     
     Open, accepted: 
-        The computer responds and asks if there is anything it can do for you.
+        The computer responds and asks 
+        if there is anything it can do for you.
     
     Closed, Not Listening: 
     The computer responds that 
