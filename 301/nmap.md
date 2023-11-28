@@ -21,7 +21,8 @@
         The computer responds and asks if there is anything it can do for you.
     
     Closed, Not Listening: 
-    The computer responds that “This port is currently in use and unavailable at this time.”
+    The computer responds that 
+    “This port is currently in use and unavailable at this time.”
 
     Filtered, dropped, blocked:
         The computer doesn’t even bother to respond.
