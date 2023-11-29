@@ -23,7 +23,8 @@
 ### What Is Network Segmentation and Why It Matters?
 
 #### In your own words, describe network segmentation.
-    Network segmentation is a practice of seperating different parts of a network via firealls, switches, and routers. Like different areas of a compound being fenced off. 
+    Network segmentation is a practice of seperating different parts of a network 
+    via firealls, switches, and routers. Like different areas of a compound being fenced off. 
 #### Network segmentation isn’t important as long as the network is using a well configured firewall. Do you agree? Why or why not?
     Network segmentation is almost always important to account for. Flat networks are a prime target for nefarious persons.
 #### What is a screened subnet?
