@@ -26,3 +26,10 @@
 - [Virtualizing a Router with pfSense](pfSense.md)
 - [Importance of Virtualization in the Amazon EC2 Cloud](cloudVirtualization.md)
 - [Malware Remediation Tools and Techniques](malwareRemediation.md)
+
+## 301 reading notes
+- [CIDR Block Notation](cidr.md)
+- [Network scanning with NMAP](nmap.md)
+- [VirtualBox Network Settings](routing.md)
+- [What is a Site-to-Site VPN?](vpn.md)
+- [What does “OSI” stand for?](wireshark.md)
