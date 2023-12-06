@@ -20,7 +20,8 @@
 ### Radius
 
 #### What are the benefits of using RADIUS for authentication and authorization?
-    Some benefits of using radius include dial-in servers, virtual private network servers, wireless access points and managed access switches.
+    Some benefits of using radius include dial-in servers, virtual private 
+    network servers, wireless access points and managed access switches.
 
 #### What is RADIUS and what does it stand for?
     Remote Authentication Dial-In User Service is a networking protocol that provides centralized AAA 
