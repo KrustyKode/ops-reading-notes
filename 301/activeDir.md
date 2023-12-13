@@ -9,7 +9,9 @@
     Including Domain Services, Light Directory Service, Certificate Services, etc.
 
 #### What are the differences between a domain, forest, and tree in Active Directory?
-    The Active Directory structure builds on itself each tier. A domain is a collection of objects, a tree is a collection of domains, and a forest is a colection of trees.
+    The Active Directory structure builds on itself each tier.
+     A domain is a collection of objects, a tree is a collection of domains, 
+     and a forest is a colection of trees.
 
 #### How can objects (e.g. users, devices) within a domain be grouped?
     Objects can be grouped into organizational units. This simplifies administration and policy management.
