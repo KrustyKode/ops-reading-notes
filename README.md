@@ -44,4 +44,4 @@
 - [Windows Server](301/windowsServer.md)
 
 ## 401 reading notes
-- [Prep: Growth Mindset](growthMindset.md)
+- [Prep: Growth Mindset](401/growthMindset.md)
