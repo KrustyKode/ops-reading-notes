@@ -1,14 +1,14 @@
 # ops-reading-notes
 ## 102 Reading notes
 - [Case Study: China’s Spy Chip](102/reading1.md)
-- [Build a Computer](reading2.md)
-- [What is the BIOS](reading3.md)
-- [Installing Ubuntu Linux](reading4.md)
-- [Installing Virtualbox with Linux Terminal](reading5.md)
-- [SOHO Networking](reading6.md)
-- [Network Connectivity](reading7.md)
-- [Virtualization of Windows OS](reading8.md)
-- [Command Line Interface](reading9.md)
+- [Build a Computer](102/reading2.md)
+- [What is the BIOS](102/reading3.md)
+- [Installing Ubuntu Linux](102/reading4.md)
+- [Installing Virtualbox with Linux Terminal](102/reading5.md)
+- [SOHO Networking](102/reading6.md)
+- [Network Connectivity](102/reading7.md)
+- [Virtualization of Windows OS](102/reading8.md)
+- [Command Line Interface](102/reading9.md)
 
 ## 201 reading notes
 - [Metocognative Map](prompt-engineering.md)
