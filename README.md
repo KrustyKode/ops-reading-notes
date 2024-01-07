@@ -1,6 +1,6 @@
 # ops-reading-notes
 ## 102 Reading notes
-- [Case Study: China’s Spy Chip](reading1.md)
+- [Case Study: China’s Spy Chip](102/reading1.md)
 - [Build a Computer](reading2.md)
 - [What is the BIOS](reading3.md)
 - [Installing Ubuntu Linux](reading4.md)
