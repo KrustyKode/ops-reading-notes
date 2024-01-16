@@ -1,6 +1,6 @@
 # Mike's reading
 
-## OPS 301 readings
+## OPS 401 readings
 
 ### Prep: Growth Mindset
 
