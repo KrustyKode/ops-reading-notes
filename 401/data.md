@@ -9,4 +9,5 @@
     uploading documents, using VScode to write and push code. These are all examples of data in transit.
     When data is not actively being sent or used, it is at rest.
 #### Explain the role data encryption with regards to the CIA triad.
-    encryption plays a key role in confidentiality. It keeps your data safe from prying eyes as even if it is intercepted, the information will be indecipherable. 
+    encryption plays a key role in confidentiality. It keeps your data safe from prying eyes
+    as even if it is intercepted, the information will be indecipherable. 
