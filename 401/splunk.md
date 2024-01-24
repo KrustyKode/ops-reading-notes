@@ -10,7 +10,9 @@
     Incident Response: Investigate and fix security threats to reduce damage.
     Threat Intelligence: Stay informed on cyber threats and advise the organization.
 #### Explain what a SIEM solution is and how the SOC utilizes it in non-technical terms.
-    Think of SIEM as a high-tech security system for IT, gathering and analyzing data from across the network to detect and respond to cyber threats, helping security teams act quickly.
+    Think of SIEM as a high-tech security system for IT, gathering and analyzing data 
+    from across the network to detect and respond to cyber threats, 
+    helping security teams act quickly.
 #### How does the typical SOC team structure resemble the structure of an IT Help Desk.
     Both have tiered support levels, but SOC focuses on cybersecurity:
     Tier 1: Handles basic alerts and incidents.
