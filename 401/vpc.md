@@ -2,7 +2,7 @@
 
 ## OPS 401 readings
 
-### Strategic Policy Development
+### Cloud Network Security.
 
 #### What are some of the key features of the VPC model?
     VPCs provide isolated, customizable cloud segments with scalable resources and security controls.
