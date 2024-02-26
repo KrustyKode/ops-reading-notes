@@ -2,7 +2,7 @@
 
 ## OPS 401 readings
 
-### Strategic Policy Development
+### Threat Hunting
 
 #### How are Threat Hunting and Pentesting different?
     Threat Hunting is proactive, searching for hidden threats. Pentesting is testing for 
