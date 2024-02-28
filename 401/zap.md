@@ -22,9 +22,5 @@
     dynamically.
 #### What situations are they best suited for?
     Traditional Spider: Use with less complex, standard web applications.
-    
+
     AJAX Spider: Use with complex, modern web applications that use a lot of AJAX and JavaScript.
-
-
-
-
